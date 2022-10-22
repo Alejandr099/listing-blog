@@ -6,8 +6,8 @@ Users (gem devise):
 - Admin
 - normal user
 
-
+Functionality:
 - RESTful routes.
 - Limited access for some pages, when you're guest (non logon).
 - Account registration, sign in, sign out, delete.
-- Creating posts
+- Create, Read, Update, Delete posts.
